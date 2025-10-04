@@ -1,11 +1,14 @@
-- 👋 Hi, I’m @Arthur-Lourencini
-- 👀 I’m interested in designing platforms about games and to make some important codes to contribuiton for the community of nerds gaming
-- 🌱 I’m currently learning about Git and Github
-- 💞️ I’m looking to collaborate on my local community to develope the society of games and technos
-- 📫 How to reach me, call me on my instagram @by_arthur05
-- ⚡ Fun fact: i love to practice any sport
+Futuro Engenheiro de Software na jornada de aprender e construir.
 
-<!---
-Arthur-Lourencini/Arthur-Lourencini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Cursando o 4º semestre de Ciência da Computação na FACENS, onde já me aprofundei em:
+- Arquitetura de Computadores
+- Análise de Sistemas
+- Banco de Dados
+- Programação Orientada a Objetos
+
+Desenvolvedor em formação, com experiência em:
+- **Linguagens**: Python, Java e C
+- **Conceitos**: Programação Orientada a Objetos, Estrutura de Dados e Análise de Sistemas
+- **Tecnologias**: Banco de Dados e Redes de Computadores
+
+Aberto a oportunidades e colaborações.
